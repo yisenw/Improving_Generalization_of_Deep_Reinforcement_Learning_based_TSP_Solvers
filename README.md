@@ -1,1 +1,1 @@
-# Improving_Generalization_of_Deep_Reinforcement_Learning_based_TSP_Solvers
+# PDF version of our paper: Improving Generalization of Deep Reinforcement Learning based TSP Solvers
